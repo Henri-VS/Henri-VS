@@ -16,7 +16,7 @@ Now I'm building software, aiming at backend, DevOps and cloud work.
 -->
 
 ### Skills
-Linux · Bash · Python · Docker · AWS · Proxmox · pfSense · Wazuh · Git · Neovim · Docker · Cloudflare · Homelab 
+Linux · Bash · Python · Docker · AWS · Proxmox · pfSense · Wazuh · Git · Neovim · Docker · Cloudflare · Homelab · SelfHosting
 Currently: learning Go, studying for CompTIA Security+
 
 [willemlab.org](https://willemlab.org) · [LinkedIn](https://www.linkedin.com/in/willem-henri-van-schaik-3342ba3ba/?isSelfProfile=true) · [TryHackMe](https://tryhackme.com/p/Terry.)
